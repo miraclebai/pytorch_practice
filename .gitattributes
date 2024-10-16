@@ -1,3 +1,4 @@
 dataset/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
 dataset/cifar-10-pythonz filter=lfs diff=lfs merge=lfs -text
 /dataset/cifar-10-batches-py filter=lfs diff=lfs merge=lfs -text
+dataset/cifar-10-batches-py filter=lfs diff=lfs merge=lfs -text
